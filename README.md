@@ -1,8 +1,14 @@
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/seu-username/">
-  <img src="https://github.com/guisoulza/guisoulza/blob/main/linkedin.png?raw=true" width="70"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-340061195/">
+    <img src="https://github.com/guisoulza/guisoulza/blob/main/linkedin.png?raw=true" width="50"/>
+  </a>
+  
+  <a href="https://github.com/guisoulza">
+    <img src="https://github.com/guisoulza/guisoulza/blob/main/insta.png?raw=true" width="50"/>
+  </a>
+</p>
 <!--
 **guisoulza/guisoulza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
