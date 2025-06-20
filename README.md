@@ -2,6 +2,9 @@
 
 [![Minha Foto](https://github.com/guisoulza/guisoulza/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/guilherme-rodrigues-340061195/)
 
+<a href="https://www.linkedin.com/in/seu-username/">
+  <img src="https://github.com/guisoulza/guisoulza/blob/main/linkedin.png?raw=true" width="150"/>
+</a>
 <!--
 **guisoulza/guisoulza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
