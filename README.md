@@ -1,6 +1,6 @@
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-340061195/)
+[![Minha Foto](https://github.com/guisoulza/guisoulza/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/guilherme-rodrigues-340061195/)
 
 <!--
 **guisoulza/guisoulza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
