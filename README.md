@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://github.com/guisoulza">
-    <img src="https://github.com/guisoulza/guisoulza/blob/main/insta.png?raw=true" width="70"/>
+    <img src="https://github.com/guisoulza/guisoulza/blob/main/insta.png?raw=true" width="60"/>
   </a>
 </p>
 <!--
